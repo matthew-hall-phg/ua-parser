@@ -2,7 +2,7 @@
     "name": "performancehorizongroup/ua-parser",
     "description": "A multi-language port of Browserscope's user agent parser.",
     "require": {
-        "symfony/yaml": "~2",
+        "symfony/yaml": "~3",
         "symfony/filesystem": "~2",
         "symfony/finder": "~2",
         "symfony/console": "~2"
